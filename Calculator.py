@@ -21,8 +21,8 @@ class Math:
         print(substract)
 
 user_num1 = float(input("Enter your first number: "))
+user_operator = input("Enter your operator(+, -, *, /): ")
 user_num2 = float(input("Enter your second number: "))
-user_operator = input("Enter your operator: ")
 
 calc = Math(user_num1, user_num2, user_operator)
 if user_operator == "*":
