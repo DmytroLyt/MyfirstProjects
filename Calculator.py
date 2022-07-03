@@ -6,19 +6,19 @@ class Math:
 
     def multipliction(self, x, y):
         multiply = x * y
-        return multiply
+        print(multiply)
 
     def division(self, x, y):
         divide = x / y
-        return divide
+        print(divide)
 
     def addition(self, x, y):
         add = x + y
-        return add
+        print(add)
 
     def substraction(self, x, y):
         substract = x - y
-        return substract
+        print(substract)
 
 user_num1 = float(input("Enter your first number: "))
 user_num2 = float(input("Enter your second number: "))
