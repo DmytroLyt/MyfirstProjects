@@ -1,6 +1,6 @@
 toppings = ("mushrooms", "cheese", "pepperoni", "olives", "bacon")
 ask_order = (input("Welcome to our Python Pizza! Do you want to make order? Print yes or no: "))
-pizza = ()
+pizza = ""
 if ask_order.lower() == 'yes':
     print("All right. Let`s customize your pizza!")
     ask_topping1 = (input(f"You can choose two toppings: {toppings}"))
