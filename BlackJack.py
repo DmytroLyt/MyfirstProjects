@@ -1,3 +1,9 @@
+# BlackJack.py
+# MyfirstProjects
+
+# Created by Dmytro Lytvynenko 7/10/2022
+# This project was created during some Python course in which I was enrolled
+
 
 import random
 
