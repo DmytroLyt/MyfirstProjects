@@ -1,3 +1,11 @@
+# Temperature_Converter.py
+# MyfirstProjects
+
+# Created by Dmytro Lytvynenko 6/19/2022
+# This project convert Celsius temperature to Fahrenheit and opposite way
+
+
+
 def temperature():
     convert_type = input('If you want to convert F into C, put F, if C into F, put C: ')
     degree = int(input("Put the degree that need to be converted: "))
