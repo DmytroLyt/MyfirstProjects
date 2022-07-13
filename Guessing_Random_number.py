@@ -1,3 +1,12 @@
+# Guessing_Random_number.py
+# MyfirstProjects
+
+# Created by Dmytro Lytvynenko 6/05/2022
+# This project was created with using random library. It is guessing number challange with some hints for users
+
+
+
+
 import random
 
 num = random.randint(0, 30)
