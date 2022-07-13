@@ -1,3 +1,10 @@
+# Calculator.py
+# MyfirstProjects
+
+# Created by Dmytro Lytvynenko 6/14/2022
+# This project was created to show ability to work with OOP and simple math functions
+
+
 class Math:
     def __init__(self, num1, num2, operator):
         self.num1 = num1
